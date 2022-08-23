@@ -1,0 +1,52 @@
+
+header {
+    display: flex;
+    flex-grow: 3;
+    background-color: bisque;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+    align-items: center;   
+    padding: 10px;
+   
+}
+
+li:hover a{
+    background-color: rgb(167, 160, 160) ;
+}
+
+li{
+    display: inline-flex;
+    
+}
+
+.logo{
+    width: 20%;
+    height: 20%;
+}
+
+.profile {
+    width: 2%;
+    height: 2%;
+    justify-content: flex-end;
+   
+   
+}
+
+main{
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+    
+}
+
+body {
+    background-color: rgb(125, 163, 162);
+    margin: 0px;
+}
+
+.utnalumnos{
+    width: 40%;
+    height: 40%;
+}
+
+p{
+    
+}
