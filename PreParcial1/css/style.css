@@ -1,52 +1,42 @@
-
 header {
-    display: flex;
-    flex-grow: 3;
     background-color: bisque;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
-    align-items: center;   
-    padding: 10px;
-   
-}
-
-li:hover a{
-    background-color: rgb(167, 160, 160) ;
-}
-
-li{
-    display: inline-flex;
-    
+    align-items: center;
+    display: flex;
+    word-spacing: 15px;
 }
 
 .logo{
-    width: 20%;
-    height: 20%;
+    width: 10%;
+    height: 10%;
+}
+
+li {
+    display: inline-flex;  
+    justify-content: space-between;  
+   
 }
 
 .profile {
     width: 2%;
-    height: 2%;
-    justify-content: flex-end;
-   
-   
-}
-
-main{
-    font-family: 'Times New Roman', Times, serif;
-    padding: 10px;
+    height: 5%;  
+    padding-left: 65%; 
     
 }
 
 body {
     background-color: rgb(125, 163, 162);
-    margin: 0px;
+    margin: 0%;
 }
 
 .utnalumnos{
     width: 40%;
     height: 40%;
 }
-
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
 p{
-    
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;    
+    font-weight: 80px;
 }
