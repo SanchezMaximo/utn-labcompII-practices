@@ -1,0 +1,23 @@
+body{
+    margin: 0%;
+    background-color: peachpuff;
+}
+h1{
+    background-color: #f1bf93db;
+    text-align: center;
+    display: flexbox;
+    margin: 0%;
+    padding: 5%;
+}
+
+h3{
+    margin-left: 5%;
+}
+.registrarse, ol{
+    margin-left: 10%;
+}
+
+.menuDeRegistro, .primerForm{
+    margin-left: 10%;
+    
+}
